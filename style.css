@@ -1,6 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color:white;
+    background-color:#ffffff4b;
     margin:0;
     padding:0;
 }
@@ -63,4 +63,12 @@ footer{
   .Reference-text{
     color:black;
     font-family: 'Times New Roman', Times, serif;
+  }
+
+  img{
+    height:auto;
+  }
+
+  .text h1,h2,h3{
+    color:rgb(28, 85, 85);
   }
